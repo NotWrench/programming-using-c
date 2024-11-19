@@ -4,3 +4,6 @@
 
 ## Where can I see the code?
 It's in the main.c file. Every course has it's own C file(s)
+
+## Where are the notes?
+Check out [Notes](notes.md)
