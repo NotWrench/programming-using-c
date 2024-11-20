@@ -1,6 +1,8 @@
-# Header file:
+# Notes
+
+## Header file:
 ```c
-#include <file_name.h>
+#include <file_name.h> // Importing
 ```
 - Header files add functionality to C programs.
 - They are used to import libraries.
@@ -9,7 +11,7 @@
 #include <stdio.h> // Imports the standard input/ouput functions.
 ```
 
-# Syntax for main function:
+## Syntax for main function:
 ```c
 int main()
 {

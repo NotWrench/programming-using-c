@@ -1,4 +1,4 @@
-## Why C?
+# Why C?
 Cuz our college bullies us to study C, that's why ;-;
 
 # Basic requirements:
