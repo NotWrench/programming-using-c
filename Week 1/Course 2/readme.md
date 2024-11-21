@@ -15,6 +15,6 @@
 ---
 
 ### Notes:
-Check out the notes for [format specifers](Notes/Format%20Specifiers.md)
-Check out the notes for [output statement](Notes/Output.md)
-Check out the notes for [output statement](Notes/Input.md)
+1. Check out the notes for [format specifers](Notes/Format%20Specifiers.md)
+2. Check out the notes for [output statement](Notes/Output.md)
+3. Check out the notes for [output statement](Notes/Input.md)
